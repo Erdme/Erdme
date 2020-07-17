@@ -3,7 +3,7 @@
 
 > ***Information***
 
-*Hello! My name is **Erdme**. I only understand Python...*
+*Hello! My name is **Erdem**. I only understand Python...*
 
 *I'm a **university student**, I'm on the [@AsenaDev](https://github.com/AsenaDev) team.*
 
